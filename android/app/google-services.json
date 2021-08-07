@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028820870249",
+    "project_id": "minstaclone",
+    "storage_bucket": "minstaclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028820870249:android:2524648b8c93f06cb12ef8",
+        "android_client_info": {
+          "package_name": "example.insta_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028820870249-d03mh31pcmht9smf58v0s7gbam3dmu72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc75Q9r5c1lEip3oF_2sRg7V7ZSVqnCbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028820870249-d03mh31pcmht9smf58v0s7gbam3dmu72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
